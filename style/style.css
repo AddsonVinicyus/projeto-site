@@ -15,20 +15,16 @@ h1 {
     color: #2228A8;
 }
 
-h2 {
-    text-align: center;
-    font-size: 24px;
-    color: #12165C;
-}
-
 img.lado {
     float: right;
 }
 
-img.botao {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+h2 {
+    text-align: center;
+}
+
+p {
+    color: #12165C;
 }
 
 main {
