@@ -6,7 +6,29 @@
 }
 
 body {
-    background-color: rgba(14, 198, 204, 0.945);
+    background-color: #2C34DB;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    color: #2228A8;
+}
+
+h2 {
+    text-align: center;
+    font-size: 24px;
+    color: #12165C;
+}
+
+img.lado {
+    float: right;
+}
+
+img.botao {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 main {
