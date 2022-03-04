@@ -10,17 +10,12 @@ body {
 }
 
 h1 {
-    text-align: center;
     font-size: 30px;
     color: #2228A8;
 }
 
 img.lado {
     float: right;
-}
-
-h2 {
-    text-align: center;
 }
 
 p {
@@ -34,9 +29,26 @@ main {
     padding: 10px;
     border-radius: 20px;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.87);
-    
-
 }
+
+.myButton {
+	background-color:#02228a;
+	border-radius:28px;
+	border:1px solid #02228a;
+	display:inline-block;
+    margin-left: auto;
+    margin-right: auto;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:14px;
+	padding:9px 17px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #02228a;
+}
+
+ 
+  
 
 
 
